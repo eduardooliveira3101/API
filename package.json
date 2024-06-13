@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "Carlos Eduardo de Oliveira Soares",
+  "license": "ISC",
+  "description": "API desenvolvida na trilha backend do explorer",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
